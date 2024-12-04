@@ -20,7 +20,8 @@ export const SinglePost = () => {
     try {
       const docRef = doc(db, "posts", postId);
       const docSnap = await getDoc(docRef);
-
+      console.log(postId);
+      
       if (docSnap.exists()) {
         setBlog(docSnap.data());
         // console.log(docSnap.data());

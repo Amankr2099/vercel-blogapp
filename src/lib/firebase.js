@@ -6,7 +6,7 @@ import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
   apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
-  authDomain: "cosmo-blog.firebaseapp.com",
+  authDomain: "cosmoblog.vercel.app",
   projectId: "cosmo-blog",
   storageBucket: "cosmo-blog.appspot.com",
   messagingSenderId: import.meta.env.VITE_FIREBASE_SENDERID,
