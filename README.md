@@ -31,3 +31,10 @@ This project is not open-source, and no part of this project may be used, copied
 - [Firebase](https://firebase.google.com/)
 - [Bootstrap](https://getbootstrap.com/)
 - [Vercel](https://vercel.com/)
+
+## License
+
+This project is proprietary and all rights are reserved. You may not copy, modify, distribute, or use this code in any manner without explicit permission from the owner.
+
+Unauthorized use of this project is prohibited.
+
